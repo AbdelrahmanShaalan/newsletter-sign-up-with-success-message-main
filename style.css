@@ -265,7 +265,7 @@ body .attribution {
 
 @media screen and (min-width: 1440px) {
     body .parent {
-        grid-area: 2 / 4 / 8 / 8;
+        grid-area: 2 / 3 / 8 / 9;
     }
 
     body .message {
